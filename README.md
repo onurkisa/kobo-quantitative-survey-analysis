@@ -123,6 +123,6 @@ estimates follow the selected weighting mode.
 
 ## Example Output
 
-![Example SADD-style Excel report](report_example.png)
+![Example SADD-style Excel report](Report_Example.png)
 
 
